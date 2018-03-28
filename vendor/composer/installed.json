@@ -1737,11 +1737,7 @@
         "installation-source": "dist",
         "notification-url": "https://packages.drupal.org/8/downloads",
         "license": [
-<<<<<<< HEAD
-            "GPL-2.0+"
-=======
             "GPL-2.0-or-later"
->>>>>>> fb56fd7ceacc58bbdd1fa3dfc1fc1b98da737263
         ],
         "authors": [
             {
@@ -2438,8 +2434,6 @@
         ]
     },
     {
-<<<<<<< HEAD
-=======
         "name": "drupal/entity_reference_revisions",
         "version": "1.4.0",
         "version_normalized": "1.4.0.0",
@@ -2575,7 +2569,6 @@
         }
     },
     {
->>>>>>> fb56fd7ceacc58bbdd1fa3dfc1fc1b98da737263
         "name": "drupal/simple_block",
         "version": "1.0.0-beta1",
         "version_normalized": "1.0.0.0-beta1",
@@ -2610,11 +2603,7 @@
         "installation-source": "dist",
         "notification-url": "https://packages.drupal.org/8/downloads",
         "license": [
-<<<<<<< HEAD
-            "GPL-2.0+"
-=======
             "GPL-2.0-or-later"
->>>>>>> fb56fd7ceacc58bbdd1fa3dfc1fc1b98da737263
         ],
         "authors": [
             {
