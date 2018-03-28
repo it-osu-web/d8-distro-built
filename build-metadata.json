@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"url":"git@github.com:dsab/d8-distro-ci.git","ref":"master","sha":"cee0135be55ad616a79a9787b38f8e5008cb85ad","comment":"Export configuration","commit-date":"2018-03-28 10:35:10 -0400","build-date":"2018-03-28 14:35:53 +0000"}
+=======
+{"url":"git@github.com:it-osu-web/d8-distro-ci.git","ref":"master","sha":"73e7111ac4717d77353157b09cc65e1aeb0fddbd","comment":"Merge pull request #2 from it-osu-web/test-change-2","commit-date":"2018-03-28 12:56:53 -0400","build-date":"2018-03-28 16:57:49 +0000"}
+>>>>>>> fb56fd7ceacc58bbdd1fa3dfc1fc1b98da737263
