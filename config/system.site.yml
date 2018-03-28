@@ -1,0 +1,14 @@
+uuid: cc7b711f-b6a5-4b51-a161-6713e86594bd
+name: d8-distro-ci
+mail: sabatino.13@osu.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
